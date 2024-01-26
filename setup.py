@@ -1,10 +1,9 @@
-from setuptools import find_packages, setup
+from setuptools import setup
 
 setup(
     name='diff_nurbs',
     python_requires='>=3.6,<3.12',
-    version='0.0.1',
-    packages=find_packages(),
+    version='0.0.2',
     install_requires=[
         'torch>=1.8,<3.0',
         'matplotlib>=3.4,<4.0',
