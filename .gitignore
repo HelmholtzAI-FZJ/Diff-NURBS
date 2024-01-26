@@ -1,0 +1,18 @@
+# Python
+*.pyc
+*.whl
+/diff_nurbs.egg-info/
+/src/diff_nurbs.egg-info/
+
+# PyTorch
+*.pt
+*.pth
+
+# Images
+*.jpeg
+*.jpg
+*.png
+*.gif
+
+# Archives
+*.tar.gz
