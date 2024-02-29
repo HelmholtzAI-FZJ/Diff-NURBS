@@ -1,8 +1,8 @@
-from packaging import version
 from typing import List, Optional, Tuple, Type, TypeVar, Union
 
 import matplotlib as mpl
 import matplotlib.pyplot as plt
+from packaging import version
 import torch
 import torch as th
 
